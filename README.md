@@ -4,8 +4,11 @@ _Some notes and comments._
 
 It is a poorly stated problem. Maybe something got lost in translation. Do Masha and Misha want the same books? I guess that assumption is true.
 Masha wants a book priced a. Misha wants a book priced b. They have (a - 7) and (b - 1) respectively.
-So the inequality assuming a = b = x is
+So the inequality assuming
+a = b = x
+is
 x > 2x - 8
+
 thus
 x < 8
 
